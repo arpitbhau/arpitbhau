@@ -1,4 +1,12 @@
-# 💫 About Me:
+
+<br><br><br><br>
+
+# 💫 Welcome to my world where creativity and code collide! <br><br><br>
+
+
+
+
+## 💫 About Me:
 🔭 I’m currently working on to become the <b>BEST</b> of myself.<br><br>🤝 I’m looking for help with Cybersecurity.<br><br>🌱 I’m currently learning Ethical Hacking.<br><br>💬 Ask me about developing any software except 'android' .<br><br>⚡ Fun fact : I am still 17'
 
 
@@ -15,8 +23,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arpitbhau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Quoute
+### ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arpitbhau&icon=0&color=0)](https://visitcount.itsvg.in)
