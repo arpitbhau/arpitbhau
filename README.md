@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an webapp which is being made with next.js<br><br>🤝 I’m looking for help with Cybersecurity.<br><br>🌱 I’m currently learning Ethical Hacking.<br><br>💬 Ask me about developing any software except 'android' .<br><br>⚡ Fun fact : I am still 17'
+🔭 I’m currently working on to become the <b>BEST</b> of myself.<br><br>🤝 I’m looking for help with Cybersecurity.<br><br>🌱 I’m currently learning Ethical Hacking.<br><br>💬 Ask me about developing any software except 'android' .<br><br>⚡ Fun fact : I am still 17'
 
 
 ## 🌐 Socials:
