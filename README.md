@@ -1,7 +1,7 @@
 
 <br><br>
 
-# 💫 Welcome to my world where creativity and code collide! <br><br><br>
+# 💫 Welcome to the world where creativity and code collide! <br><br><br>
 
 
 
