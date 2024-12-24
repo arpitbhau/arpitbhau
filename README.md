@@ -1,15 +1,15 @@
 
 <br><br>
 
-## 💫 Welcome! U are at the right place  <br><br><br>
+## 💫 Welcome! U are at the right place  <br><br>
 
-# I am <b>Arpit.</b>
+# I am <b>arpit.😑</b>
 
 <br><br>
 
 
 ## 💫 About Me:
-🔭 On a journey of becoming a <b>better version</b> of my past self.<br><br>🤝 Looking forward to Learn new things.<br><br>⚡ Fun fact : <strong>I am still 17'</strong>
+🔭 On a journey of becoming a <b>better version</b> of my past self.<br><br>🤝 Looking forward to Learn new things.<br><br>⚡ fact abt. me: <strong>......</strong>
 
 
 ## 🌐 Socials:
