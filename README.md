@@ -7,7 +7,7 @@
 
 
 ## 💫 About Me:
-🔭 On a journey of becoming a <b>better version</b> of my past self.<br><br>🤝 Looking forward to Learn new things.<br><br>⚡ fact abt. me: <strong>......</strong>
+🔭 On a journey of becoming a <b>better version</b> of my past self.<br><br>🤝 what i do? "what others can't"<br><br>⚡ fact abt. me: <strong>......</strong>
 
 
 ## 🌐 Socials:
