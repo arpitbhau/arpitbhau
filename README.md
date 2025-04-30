@@ -1,7 +1,5 @@
-
 <br><br>
 
-## 💫 Welcome! U are at the right place  <br><br>
 
 # I am <b>arpit.😑</b>
 
