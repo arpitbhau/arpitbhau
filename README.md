@@ -17,6 +17,4 @@
 
 <br>
 
-
-## what i use when i work ?
-"my knowledge."
+<br>
