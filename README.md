@@ -1,7 +1,7 @@
 <br><br>
 
 
-# i'm <b>arpit.😑</b>
+# i'm <b>arpit.</b>
 
 <br>
 
